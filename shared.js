@@ -9,7 +9,7 @@
    real deployment before this goes live. See the setup steps sent
    alongside this file. ════ */
 window.SFT = window.SFT || {};
-SFT.GAS_URL    = 'https://script.google.com/macros/s/REPLACE_WITH_YOUR_GAS_DEPLOYMENT_ID/exec'; // TODO: new Apps Script deployment
+SFT.GAS_URL    = 'https://tinyurl.com/2aj4wb7o'; // TODO: new Apps Script deployment
 SFT.SITE_NAME  = 'Mexicanos en Toronto';
 SFT.SITE_URL   = 'https://mexicanos-en-toronto.com';
 SFT.FAVICON_URL = 'https://placehold.co/64x64/B8232B/ffffff/png?text=MT'; // TODO: replace with real favicon
